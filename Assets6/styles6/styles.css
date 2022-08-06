@@ -266,7 +266,6 @@ div.gridcontainer3 {
   align-content: stretch;
   height: 40vh;
   background-color: rgba(224, 243, 145, 1);
-  
 }
 .question {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -319,4 +318,3 @@ div.gridcontainer3 {
   margin-left: 20%;
   align-self: flex-end;
 }
-
